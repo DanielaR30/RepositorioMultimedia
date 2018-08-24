@@ -1,0 +1,31 @@
+body{
+	background: black;
+}
+@font-face{
+	font-family: "ka";
+	src: url('../fonts/ka.otf');
+}
+h1{
+	font-family: "ka";
+	font-size: 100px;
+	color: #FFFFFF;
+}
+img{
+display:block;
+margin: 0 auto;
+}
+p{
+	font-family: 'Indie Flower', cursive;
+	font-size: 42px;
+		color: #FFFFFF;
+}
+@font-face{
+	font-family: "so";
+	src: url('../fonts/so.otf');
+}
+
+h2{
+	font-family: "so", arial;
+	font-size: 50px;
+	color: #FFFFFF;
+}
